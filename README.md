@@ -4,7 +4,7 @@ Was tired of importing every icon in each component one by one. That's why I've 
 
 ## Usage Now
 
-Now I any icon can be used with the same import. 
+Now any icon can be used with the same import. 
 
 ```vue
 <template>
@@ -26,7 +26,7 @@ export default {
 
 ## Usage Before
 
-Now I can use any icon with the same import. 
+Before every icon must be imported and exported one by one.
 
 ```vue
 <template>
