@@ -1,6 +1,6 @@
 # Helper Components to easier use Heroicons in Vue
 
-Was tired of importing every icon in each component one by one. That's why I've build myself this helpers components to import the icons more easy. I am Fairly new to Vue, so I am not sure whether or not this is a good approach. Suggestions welcome.
+Was tired of importing every icon in each component one by one. That's why I've build myself this little helper components to import the icons more easy. I am new to Vue, so I am not sure whether or not this is a good approach. Suggestions welcome.
 
 ## Usage Now
 
